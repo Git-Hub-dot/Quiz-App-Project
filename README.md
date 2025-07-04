@@ -14,7 +14,7 @@ A simple yet functional **Quiz Web Application** built using HTML, CSS, and JSP.
    **Simple Frontend and Backend Integration**
   
 ## 📷 Screenshots
-
+![Image Alt]()
 
 ## 🛠️ Technologies Used
 
