@@ -15,6 +15,7 @@ A simple yet functional **Quiz Web Application** built using HTML, CSS, and JSP.
   
 ## 📷 Screenshots
 ![Image Alt](https://github.com/Git-Hub-dot/My-Project-I/blob/d1fd2397a49c810df587e27d635d95e04d81312e/P1.png)
+![Image Alt](https://github.com/Git-Hub-dot/My-Project-I/blob/002cdbd61fdc62b01ecb8e5767c083eaf90be8f4/P2.png)
 
 ## 🛠️ Technologies Used
 
