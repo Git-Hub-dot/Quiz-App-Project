@@ -1,4 +1,5 @@
 **Quiz App with Login Authentication**
+
 A sample project by: **SAROJ DHITAL**
 
 A simple yet functional **Quiz Web Application** built using HTML, CSS, and JSP. The app presents **10 general knowledge questions**, but access is **restricted to authenticated users** through a login system.
