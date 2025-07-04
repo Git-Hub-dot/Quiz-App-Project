@@ -20,11 +20,11 @@ A simple yet functional **Quiz Web Application** built using HTML, CSS, and JSP.
 
 ## 🛠️ Technologies Used
 
-Frontend: HTML, CSS
+Frontend:  HTML, CSS
 
-Backend: JSP (Java Server Pages), Java
+Backend:  JSP (Java Server Pages), Java
 
-Server  Apache Tomcat 
+Server:  Apache Tomcat 
 
 ## 🔑 How It Works
 
