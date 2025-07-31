@@ -33,4 +33,18 @@ Server:  Apache Tomcat
 3. After successful authentication, the user is redirected to the **quiz page**.
 4. User answers **10 MCQs** and submits.
 5. The server processes answers and shows the **final score** in the result page.
+***
+## 🙌 Author
+
+**Saroj Dhital**
+*Computer Science Student & Web Enthusiast*
+***
+## 🌟 Show Your Support
+
+If you liked the project:
+
+* ⭐️ Star this repo
+* 🗣 Share with your friends!
+***
+
 
